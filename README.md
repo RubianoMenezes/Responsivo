@@ -10,3 +10,5 @@
 
 <p><b>-HTML</b><p/>
 <p><b>-CSS</b></p>
+
+<img src="https://github.com/RubianoMenezes/Responsivo/blob/main/Proj-Responsivo/img/Wide%20Coverage-Mobili.jpeg"/>
